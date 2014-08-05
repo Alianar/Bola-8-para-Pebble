@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "gcalvo@me.com",
+    "longName": "Bola 8",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "icon",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Bola 8",
+    "uuid": "587a9ec7-e8a0-4c4f-bf4c-14755377f201",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
